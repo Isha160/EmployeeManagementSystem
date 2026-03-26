@@ -80,7 +80,7 @@ CREATE TABLE employee (
     emp_email VARCHAR(100),
     emp_department VARCHAR(50),
     emp_salary DOUBLE
-);
+);~~~
 
 CREATE TABLE admin (
     admin_id VARCHAR(50),
