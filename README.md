@@ -72,6 +72,7 @@ Employee-Management-System
 **Database Name:** employee_db  
 
 ### Employee Table
+~~~
 sql
 CREATE TABLE employee (
     emp_id INT PRIMARY KEY,
@@ -85,6 +86,7 @@ CREATE TABLE admin (
     admin_id VARCHAR(50),
     admin_password VARCHAR(50)
 );
+~~~
 
 ---
 ## 🔌 JDBC Connectivity (5 Steps Used)
