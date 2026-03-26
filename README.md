@@ -87,6 +87,7 @@ CREATE TABLE admin (
     admin_password VARCHAR(50)
 );
 
+---
 ## 🔌 JDBC Connectivity (5 Steps Used)
 
 1. **Load and Register Driver**  
