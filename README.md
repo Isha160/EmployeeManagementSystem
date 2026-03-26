@@ -104,7 +104,8 @@ CREATE TABLE admin (
 - Apache Tomcat (9 or 10)  
 - MySQL Server  
 - Eclipse / IntelliJ IDEA  
-- MySQL Connector JAR  
+- MySQL Connector JAR
+
 
 ### 🚀 Steps to Run
 1. Clone or download the project from GitHub.  
@@ -116,10 +117,12 @@ CREATE TABLE admin (
 7. Run the project on the **Tomcat server**.  
 8. Access the application in the browser:
 http://localhost:8080/EmployeeManagementSystem/login.jsp
+---
 
 🔐 Sample Admin Credentials
 Admin ID: admin
 Password: admin123
+---
 
 ## 📌 Conclusion
 
