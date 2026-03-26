@@ -66,21 +66,20 @@ Employee-Management-System
 │  
 └── README.md
 
-
 ---
 
 ## 🗄️ Database Details
 **Database Name:** employee_db  
 
 ### Employee Table
-```sql
+sql
 CREATE TABLE employee (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(100),
     emp_email VARCHAR(100),
     emp_department VARCHAR(50),
     emp_salary DOUBLE
-);~~~
+);
 
 CREATE TABLE admin (
     admin_id VARCHAR(50),
