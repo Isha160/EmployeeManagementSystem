@@ -122,7 +122,7 @@ http://localhost:8080/EmployeeManagementSystem/login.jsp
 ---
 
 🔐 Sample Admin Credentials
-Admin ID: admin
+- Admin ID: admin
 Password: admin123
 ---
 
